@@ -1,26 +1,19 @@
 ## Readme file for Project 2
 
 ### Problem 1
-#### To run Histogram Equalization method
+#### To run Equalization (Method 1 for classical and Method 2 for Adaptive 
 
 ```
 python3 problem1.py --Method 1
-```
-
-#### To run Adaptive Histogram Equalization method
-```
 python3 problem1.py --Method 2
 ```
-
-### Problem 2
-#### To run problem 2
+### Curve Prediction
 
 ```
 python3 problem2.py
 ```
 
-### Problem 3
-#### To run Problem 3
+### Lane Detection
 
 ```
 python3 problem3.py
