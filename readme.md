@@ -26,6 +26,19 @@ python3 problem2.py
 python3 problem3.py
 ```
 
+### Outputs
+#### Curve Prediction 
+<p align="center">
+  <img src=https://github.com/ParamDave5/Lane-Detection/blob/8209ded398056a8465edb3170b7cf5e64e5dd20c/outputs/curveDetection.gif> 
+<p align="center">
+
+#### Lane Detection
+<p align="center">
+  <img src=https://github.com/ParamDave5/Lane-Detection/blob/8209ded398056a8465edb3170b7cf5e64e5dd20c/outputs/laneDetection.gif> 
+<p align="center">
+
+
+
 #### Link to drive
 https://drive.google.com/drive/folders/139y1foLg19KOrUQFz9LiLoLG-hIfQ9mH?usp=sharing 
 
