@@ -22,7 +22,7 @@ python3 problem3.py
 ### Outputs
 #### Curve Prediction 
 <p align="center">
-  <img src=https://github.com/ParamDave5/Lane-Detection/blob/8209ded398056a8465edb3170b7cf5e64e5dd20c/outputs/curve1.gif> 
+  <img src=https://github.com/ParamDave5/Lane-Detection/blob/d85ae67a219f1fb417e4cd528fa1db9f12f0670f/outputs/curve1.gif> 
 <p align="center">
 
 #### Lane Detection
